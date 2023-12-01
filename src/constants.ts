@@ -5,7 +5,7 @@ export { IS_BROWSER } from './utils/encode';
  */
 export const TEXT_TO_FELT_MAX_LEN = 31;
 
-export const HEX_STR_TRANSACTION_VERSION_1 = '0x1';
+export const HEX_STR_TRANSACTION_VERSION_2 = '0x1';
 export const HEX_STR_TRANSACTION_VERSION_2 = '0x2';
 export const BN_TRANSACTION_VERSION_1 = 1n;
 export const BN_TRANSACTION_VERSION_2 = 2n;
